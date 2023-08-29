@@ -23,6 +23,7 @@ a {
     color: red;
     text-align: center;
     font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .sushi h3 {
@@ -30,6 +31,7 @@ a {
     color: whitesmoke;
     text-align: center;
     font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .salad h3 {
@@ -37,5 +39,6 @@ a {
     color: burlywood;
     text-align: center;
     font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
